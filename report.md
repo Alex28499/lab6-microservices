@@ -1,4 +1,4 @@
-##Started services
+## Started services
 1. Run Eureka server: 
     ```bash
     ./gradlew :registration:bootRun
