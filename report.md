@@ -31,7 +31,7 @@ After that, we can run the second account service and register on Eureka server.
 The dashboard has been updated too and we can see this new service registered:  
 ![dashboard2](https://user-images.githubusercontent.com/45805074/147890316-e93965d1-a67b-4fc8-82e9-234eb84d994e.png)
 
-##Kill first account service and request to web
+## Kill first account service and request to web
 When I kill the first account service I can observe that 
 this service (port:2222) has dissapear from dashboard:
 ![dashboard3](https://user-images.githubusercontent.com/45805074/147890344-477578f8-b25b-4e3c-ab06-33b1d69d10cb.png)  
