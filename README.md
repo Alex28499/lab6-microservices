@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+|71069|[Alejandro Terron](https://github.com/allex28499/lab6-microservices/tree/work) |[Report](https://github.com/allex28499/lab6-microservices/blob/work/report.md)|             |       |
